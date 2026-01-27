@@ -6,39 +6,22 @@
 ### Date: [01/22/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+- [✔️] Complete the basic module questions and statements
+- [ ] Complete the Studio Brainstorm assignment
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Learned how to create a md file in github
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Troubleshooting a misspell for the doc making the link invalid
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Created a new docs file and deleted the older one. This allowed the link to work properly
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Using GitHub
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
+- N/A at the moment
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Work on doing the Studio Brainstorm assignment 
