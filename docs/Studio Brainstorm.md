@@ -50,7 +50,7 @@ Our vision is to forge games that resonante with our players and leave them with
 
 ## Unique Selling Point (USP)
 
-> [Create games that don’t just entertain; they immerse, captivate, and leave players feeling like they’ve stepped into another world and want more from the story]
+Create games that don’t just entertain; they immerse, captivate, and leave players feeling like they’ve stepped into another world and want more from the story
 
 ---
 
